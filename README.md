@@ -7,7 +7,7 @@ Make sure that you have React installed with webpack and Babel.
 
 Travel to your folder with prompt and execute with the command "npm start".
 
-![alt text](https://raw.githubusercontent.com/john.klaumann/react-authors-register/master/path/to/react.png)
+![Example](https://github.com/johnklaumann/React-authors-register/blob/master/react.png)
 
 Have fun coding.
 
